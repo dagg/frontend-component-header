@@ -1,5 +1,5 @@
 import arMessages from './messages/ar.json';
-
+import elMessages from './messages/el.json';
 import caMessages from './messages/ca.json';
 import heMessages from './messages/he.json';
 import idMessages from './messages/id.json';
@@ -17,6 +17,7 @@ import zhcnMessages from './messages/zh_CN.json';
 
 const messages = {
   ar: arMessages,
+  el: elMessages,
   ca: caMessages,
   he: heMessages,
   id: idMessages,
